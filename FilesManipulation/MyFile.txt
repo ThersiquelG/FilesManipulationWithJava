@@ -1,0 +1,1 @@
+Client [nom=Bob, prenom=Morane, reference=12]Client [nom=zoe, prenom=duchard, reference=3]Client [nom=maxime, prenom=dupont, reference=E]
