@@ -1,0 +1,1 @@
+ClientAtBruno [reference=12, prenom=Bob, nom=Morane]ClientAtBruno [reference=3, prenom=Wayne, nom=Bruce]ClientAtBruno [reference=18, prenom=Wallas, nom=Corbene]
